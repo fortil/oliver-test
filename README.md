@@ -1,19 +1,11 @@
-## Oliver Space Take-Home Instructions
-
-Your mission, if you choose to accept it, is to build out a mock of a product reviews flow. 
-This includes a page for users to submit their reviews as well as a page to read reviews.
-
-REQUIREMENTS:
-- Create a page where a user can review a given product with the following information:
-    - Their name (the author)
-    - A star rating
-    - Headline text (a title for their review)
-    - The body of the review (a longer paragraph)
-- Create a page where a user can view all of the reviews for a given product
-
-Please spend 90 minutes completing this task to whatever extent you can finish, but don't
-go over time. The expectation is not that you will get through all of the requirements, so please add notes on anything else you would have done with more time. Feel free to use any third-party libraries
-that you find helpful.
+## Improvement to do
+- I would like to organice the code
+- I would like to improve the UI in:
+    - Header
+    - Cards
+    - Form
+    - Buttons
+- I would like to create the tests
 
 ## Running the app
 Start the mock JSON server on port 3004 using `json-server --watch db.json`
