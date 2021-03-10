@@ -33,6 +33,14 @@
       "body": "Would rent this dining room table one hundred times over.",
       "productId": "0",
       "id": 2
+    },
+    {
+      "star_rating": 2,
+      "author": "William ",
+      "headline": "Hola",
+      "body": "Esto no me pareció",
+      "productId": "2",
+      "id": 3
     }
   ]
 }
